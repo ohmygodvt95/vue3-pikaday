@@ -1,6 +1,6 @@
-# vue3-pikaday
+# Vue3-pikaday
 
-Vue3 wrapper component for Pikaday datepicker
+Vue3 wrapper component for [Pikaday](https://github.com/Pikaday/Pikaday) datepicker
 
 ### Install
 
@@ -34,5 +34,7 @@ const pickedDate = ref<String>();
 Feel free to create issue for bugs or pull request with fixes / enhancements.
 
 ### License
+
 [MIT](./LICENSE)
+
 Copyright (c) 2022 - present [Ohmygodvt95](https://github.com/ohmygodvt95)
