@@ -16,11 +16,9 @@ yarn add @ohmygodvt95/vue3-pikaday
 
 ### Usage
 
-Using with typescript project
-
 ```vue
 <script setup lang="ts">
-import VPikaday from "vue3-pikaday";
+import VPikaday from "@ohmygodvt95/vue3-pikaday";
 import { ref } from "vue";
 
 const pickedDate = ref<String>();
