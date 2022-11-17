@@ -1,8 +1,8 @@
-<script setup lang="ts">
-import VPikaday from "@/VPikaday/components/VPikaday.vue";
+<script setup>
+import VPikaday from "../dist/VPikaday.esm.js";
 import { ref } from "vue";
 
-const pickedDate = ref<String>();
+const pickedDate = ref();
 </script>
 
 <template>
