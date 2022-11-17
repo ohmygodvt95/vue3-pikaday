@@ -4,12 +4,23 @@ Vue3 wrapper component for [Pikaday](https://github.com/Pikaday/Pikaday) datepic
 
 ### Install
 
+with NPM
+```bash
+npm i @ohmygodvt95/vue3-pikaday 
+```
+
+with Yarn
+```bash
+yarn add @ohmygodvt95/vue3-pikaday 
+```
 
 ### Usage
 
+Using with typescript project
+
 ```vue
 <script setup lang="ts">
-import VPikaday from "@/VPikaday/components/VPikaday.vue";
+import VPikaday from "vue3-pikaday";
 import { ref } from "vue";
 
 const pickedDate = ref<String>();
@@ -27,7 +38,6 @@ const pickedDate = ref<String>();
       picked: {{ pickedDate }}
    </main>
 </template>
-
 ```
 
 ### Contribution
