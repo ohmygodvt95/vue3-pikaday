@@ -1,3 +1,3 @@
-import VPikaday from "@/src/VPikaday/components/VPikaday.vue";
+import VPikaday from "@/dist/VPikaday.esm";
 
 export default VPikaday;
