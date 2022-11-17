@@ -14,7 +14,7 @@ with Yarn
 yarn add @ohmygodvt95/vue3-pikaday 
 ```
 
-### Usage
+### Usage & Options
 
 ```vue
 <script setup lang="ts">
@@ -37,6 +37,8 @@ const pickedDate = ref<String>();
    </main>
 </template>
 ```
+
+NOTE: Pikaday's options can be added using the vue component's properties. List of properties refer here https://github.com/Pikaday/Pikaday#configuration
 
 ### Contribution
 Feel free to create issue for bugs or pull request with fixes / enhancements.

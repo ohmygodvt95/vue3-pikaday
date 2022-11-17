@@ -15,7 +15,6 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
-    "date-fns": "^2.29.3",
     "moment": "^2.29.4",
     "pikaday": "^1.8.2",
     "rollup-plugin-vue": "^6.0.0",
