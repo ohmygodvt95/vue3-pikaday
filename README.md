@@ -40,6 +40,10 @@ const pickedDate = ref<String>();
 
 NOTE: Pikaday's options can be added using the vue component's properties. List of properties refer here https://github.com/Pikaday/Pikaday#configuration
 
+Screenshot
+
+![Screenshot](https://i.imgur.com/S7nzvoB.png)
+
 ### Contribution
 Feel free to create issue for bugs or pull request with fixes / enhancements.
 
