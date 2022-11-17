@@ -1,6 +1,6 @@
 {
   "name": "@ohmygodvt95/vue3-pikaday",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vue3 wrapper component for Pikaday",
   "scripts": {
     "dev": "vite",
